@@ -1,0 +1,1 @@
+Just a Nikke bot written with AutoHotKey to make my dailies and life easier
