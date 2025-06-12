@@ -132,7 +132,7 @@ Initialization() {
         WinActivate(winID)
     }
     else {
-        MsgBox("The program " targetExe "was not found, please launch")
+        MsgBox("The program " targetExe " was not found, please launch")
         Pause
     }
     nikkeID := winID
